@@ -34,11 +34,11 @@ This UI kit includes all the essential screens you’d expect in a real-world tr
 
 | Home Page | Explore Page | Accommodation Page |
 |-----------|--------------|--------------------|
-| ![Home](assets/images/Home_Page_Travel.png) | ![Explore](assets/images/Explore_page_Travel.png) | ![Hotel](assets/images/Accommodation_finder.png) |
+| ![Home](assets/Home_Page_Travel.png) | ![Explore](assets/Explore_page_Travel.png) | ![Hotel](assets/Accommodation_finder.png) |
 
 | Login Page | 
 |------------|
-| ![Login](assets/images/Login_Travel.png) | 
+| ![Login](assets/Login_Travel.png) | 
 
 ---
 
