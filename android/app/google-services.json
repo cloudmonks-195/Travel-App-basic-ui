@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720526388343",
+    "project_id": "travelui-3b281",
+    "storage_bucket": "travelui-3b281.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720526388343:android:2f2b43b9e434f85a55aa72",
+        "android_client_info": {
+          "package_name": "com.example.Viator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD6n2hLLetIEJ2lPEABM2xnx6YK2eDDS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
