@@ -32,15 +32,22 @@ This UI kit includes all the essential screens you’d expect in a real-world tr
 
 ## 🖼️ App Previews (`assets/images/`)
 
-| Home Page | Explore Page | Accommodation Page |
-|-----------|--------------|--------------------|
-| ![Home](assets/Home_Page_Travel.png) | ![Explore](assets/Explore_page_Travel.png) | ![Hotel](assets/Accommodation_finder.png) |
+## Screenshots
 
-| Login Page | 
-|------------|
-| ![Login](assets/Login_Travel.png) | 
+### 🏨 Accommodation Finder
+![Accommodation Finder](assets/Accomodation%20finder.png)
 
----
+### 🔍 Explore Page
+![Explore Page](assets/Explore%20page%20Travel.png)
+
+### 🏠 Home Page
+![Home Page](assets/Home%20Page%20travel.png)
+
+### 🔐 Login Page
+![Login Page](assets/Login%20Travel.png)
+
+### 👤 Profile Page
+![Profile Page](assets/Profile%20Page.png)
 
 ## 📂 Project Structure
 
